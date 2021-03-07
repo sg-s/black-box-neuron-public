@@ -6,7 +6,8 @@
 
 Neurons are complex dynamical machines and you can read all about the amazing ways in which they work in a textbook. 
 But how do we know this? How did the scientists who discovered this figure it out? 
-In this six week project, we will don the hat of the intrepid explorer and discover for ourselves the secrets of *in-silico* neurons that we can play with. 
+In this six week project, we will don the hat of the intrepid explorer and discover for ourselves the secrets of neurons and spikes using 
+*in-silico* cells that we can play with on our computers. 
 Our neuron, like many other seemingly mysterious things in the universe, is an Oracle, and will answer any question we ask of it. 
 Like the [Oracle of Delphi](https://en.wikipedia.org/wiki/Oracle), its answers can be cryptic and apparently contradictory, 
 and we will learn the art of asking carefully worded questions that will compel the sibylline cell to reveal
