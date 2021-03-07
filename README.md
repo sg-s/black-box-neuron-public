@@ -23,6 +23,19 @@ and we will arm ourselves with the tools to crack open other knotty problems as 
 ## Installation
 
 
+### Windows
+
+1. Download and install [MATLAB](https://www.mathworks.com/products/matlab.html).
+2. Go to Home > Add Ons > Get Add Ons. 
+4. Search for "mingw" and download the first result ("MATLAB Support for MinGW-w64 C/C++ Compiler ")
+5. Download [this file](), and drag it onto your MATLAB workspace to install. 
+
+### macOS
+
+1. Download and install [MATLAB](https://www.mathworks.com/products/matlab.html).
+5. Download [this file](), and drag it onto your MATLAB workspace to install. 
+
+
 ## Possible research plan
 
 ![](https://user-images.githubusercontent.com/6005346/110253657-85e31200-7f59-11eb-8872-59b41f73033c.png)
