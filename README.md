@@ -47,4 +47,14 @@ and we will arm ourselves with the tools to crack open other knotty problems as 
 
 ### How is this built?
 
+BlackBoxNeuron is built using the [xolotl](https://github.com/sg-s/xolotl) neuron and network simulator. This software includes xolotl, and all its dependencies, and you don't need to install anything else. 
+
 ### I can't see the code! 
+
+The code for the black box neuron is deliberately obfuscated. You're supposed to discover how this neuron works by doing electrophysiology experiments, not by reading the code. However, all sub-components of this package are freely available for your inspection and re-use:
+
+- [xolotl](https://github.com/sg-s/xolotl) The xolotl neuron and network simulator
+- [cpplab](https://github.com/sg-s/cpplab) Automatic binding between C++ and MATLAB code
+- [mtools](https://github.com/sg-s/srinivas.gs_mtools) Various helper tools and dependencies 
+- [puppeteer](https://github.com/sg-s/puppeteer) Manipulate anything interactively 
+
