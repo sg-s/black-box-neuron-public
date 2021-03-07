@@ -39,6 +39,8 @@ and we will arm ourselves with the tools to crack open other knotty problems as 
 
 ## Possible research plan
 
+The following outlines a possible research plan using BlackBoxNeuron. This is merely a suggestion, and the software is open-ended enough that you can do whatever you like. 
+
 ![](https://user-images.githubusercontent.com/6005346/110253657-85e31200-7f59-11eb-8872-59b41f73033c.png)
 
 
