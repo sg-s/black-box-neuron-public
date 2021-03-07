@@ -1,4 +1,6 @@
-# black-box-neuron-public
+![](https://user-images.githubusercontent.com/6005346/110253783-26393680-7f5a-11eb-90f9-9fe4ddd8aca9.png)
+
+# The Black Box Neuron
 
 ## Introduction 
 
