@@ -29,12 +29,12 @@ and we will arm ourselves with the tools to crack open other knotty problems as 
 1. Download and install [MATLAB](https://www.mathworks.com/products/matlab.html).
 2. Go to Home > Add Ons > Get Add Ons. 
 4. Search for "mingw" and download the first result ("MATLAB Support for MinGW-w64 C/C++ Compiler ")
-5. Download [this file](https://github.com/sg-s/black-box-neuron-public/releases/latest), and drag it onto your MATLAB workspace to install. 
+5. Download [this mltbx file](https://github.com/sg-s/black-box-neuron-public/releases/latest), and drag it onto your MATLAB workspace to install. 
 
 ### macOS
 
 1. Download and install [MATLAB](https://www.mathworks.com/products/matlab.html).
-5. Download [this file](https://github.com/sg-s/black-box-neuron-public/releases/latest), and drag it onto your MATLAB workspace to install. 
+5. Download [this mltbx file](https://github.com/sg-s/black-box-neuron-public/releases/latest), and drag it onto your MATLAB workspace to install. 
 
 
 ## Possible research plan
